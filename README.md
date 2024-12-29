@@ -6,7 +6,7 @@ EcoTrack reduces fuel consumption and operational costs by optimizing delivery r
 **Waste Reduction & Sustainability:** 
 
 The platform encourages packaging reuse, contributing to reduced waste and supporting environmentally conscious practices.
-**Minimized Paper Usage: **
+**Minimized Paper Usage:**
 
 By offering digital product details and language translation, EcoTrack reduces paper consumption and enhances accessibility for a more eco-friendly approach.
 **Virtual Try-Ons:** 
